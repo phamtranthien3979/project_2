@@ -1,0 +1,1 @@
+curl --location --request GET 'http://test-udacity-dev3.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://i.natgeofe.com/n/5806314f-21fe-420c-8d57-2e87254da534/Virgin%20Galactic%20flight_16x9.png?w=1200'
